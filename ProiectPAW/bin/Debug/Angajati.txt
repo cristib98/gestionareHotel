@@ -1,0 +1,14 @@
+Costache,Gigel,M,103,1912
+George,Andrei-Costin,M,106,3100
+Panait,Mariana,F,107,2900
+Costache,Daria,F,108,4550
+Dumitru,Robert,M,110,4900
+Test,Test,F,113,111
+Stancu,Ciprian,M,111,3050
+Grigore,Maria,F,112,2150
+Nedelcu,Gabriela-Alina,F,109,4787
+Mihaila,Andreea,F,101,2500
+Avram,Mihaela,F,104,3100
+Baban,Alexandru,M,100,7200
+Stanciu,Costel,M,102,1973
+Avramescu,Ion,M,105,3056

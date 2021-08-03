@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3AE1449C-40F3-4269-92C4-80876FEF10AE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProiectPAW</RootNamespace>
+    <AssemblyName>ProiectPAW</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdaugareClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdaugareClient.Designer.cs">
+      <DependentUpon>AdaugareClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdaugareRezervare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdaugareRezervare.Designer.cs">
+      <DependentUpon>AdaugareRezervare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AfisareAngajati.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AfisareAngajati.Designer.cs">
+      <DependentUpon>AfisareAngajati.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AfisareCamere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AfisareCamere.Designer.cs">
+      <DependentUpon>AfisareCamere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AfisareClienti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AfisareClienti.Designer.cs">
+      <DependentUpon>AfisareClienti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Angajat.cs" />
+    <Compile Include="Camera.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="exitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exitForm.Designer.cs">
+      <DependentUpon>exitForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdaugareAngajat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdaugareAngajat.Designer.cs">
+      <DependentUpon>AdaugareAngajat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gf.Designer.cs">
+      <DependentUpon>Gf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INrOre.cs" />
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificareSalarii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificareSalarii.Designer.cs">
+      <DependentUpon>ModificareSalarii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Persoana.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rezervari.cs" />
+    <Compile Include="RezervariExistente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RezervariExistente.Designer.cs">
+      <DependentUpon>RezervariExistente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdaugareClient.resx">
+      <DependentUpon>AdaugareClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdaugareRezervare.resx">
+      <DependentUpon>AdaugareRezervare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AfisareAngajati.resx">
+      <DependentUpon>AfisareAngajati.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AfisareCamere.resx">
+      <DependentUpon>AfisareCamere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AfisareClienti.resx">
+      <DependentUpon>AfisareClienti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exitForm.resx">
+      <DependentUpon>exitForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdaugareAngajat.resx">
+      <DependentUpon>AdaugareAngajat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gf.resx">
+      <DependentUpon>Gf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificareSalarii.resx">
+      <DependentUpon>ModificareSalarii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RezervariExistente.resx">
+      <DependentUpon>RezervariExistente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\miuns.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="System\Windows\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\corona.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-employee-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-reception-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-bedroom-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-reservation-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-money-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-exit-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sign-out-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sign-out-24.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

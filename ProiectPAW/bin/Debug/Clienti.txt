@@ -1,0 +1,15 @@
+Negulescu,Andrei,M,1000,Romana,0799829928
+Badea,Nicoleta,F,1001,Romana,0788987654
+Smith,Will,M,1002,Engleza,777445
+Badea,Bogdan,M,1003,Romana,0789444654
+Roncea,Andrei,M,1004,Romana,0715676542
+Popescu,Iulian,M,1005,Romana,0794586318
+Adam,Alexa,F,1006,Germana,02397736
+Adam,Aaron,M,1007,Germana,08628493
+Coman,Claudia,F,1008,Romana,0788294843
+Grigore,Andrei,M,1009,Romana,0785676442
+Matache,Cristina,F,1010,Romana,0788253443
+Dan,Iulian,M,1011,Romana,0711236459
+Grigorescu,Elena-Andreea,F,1012,Romana,0787778312
+Roman,Cristian,M,1013,Romana,0798561882
+test,test,F,123123,test,123123123

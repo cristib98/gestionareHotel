@@ -1,0 +1,118 @@
+C:\Users\Cristi\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csprojAssemblyReference.cache
+C:\Users\Cristi\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Properties.Resources.resources
+C:\Users\Cristi\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.GenerateResource.cache
+C:\Users\Cristi\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.CoreCompileInputs.cache
+C:\Users\Cristi\source\repos\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.exe.config
+C:\Users\Cristi\source\repos\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.exe
+C:\Users\Cristi\source\repos\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.pdb
+C:\Users\Cristi\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.exe
+C:\Users\Cristi\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.pdb
+C:\Users\Cristi\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Form1.resources
+C:\Users\Cristi\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AdaugareAngajat.resources
+C:\Users\Cristi\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AfisareAngajati.resources
+C:\Users\Cristi\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AfisareClienti.resources
+C:\Users\Cristi\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AdaugareClient.resources
+C:\Users\Cristi\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AfisareCamere.resources
+C:\Users\Cristi\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.RezervariExistente.resources
+C:\Users\Cristi\source\repos\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AdaugareRezervare.resources
+C:\Users\Cristi\Desktop\ProiectPAW\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.exe.config
+C:\Users\Cristi\Desktop\ProiectPAW\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.exe
+C:\Users\Cristi\Desktop\ProiectPAW\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.pdb
+C:\Users\Cristi\Desktop\ProiectPAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csprojAssemblyReference.cache
+C:\Users\Cristi\Desktop\ProiectPAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AdaugareClient.resources
+C:\Users\Cristi\Desktop\ProiectPAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AdaugareRezervare.resources
+C:\Users\Cristi\Desktop\ProiectPAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AfisareAngajati.resources
+C:\Users\Cristi\Desktop\ProiectPAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AfisareCamere.resources
+C:\Users\Cristi\Desktop\ProiectPAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AfisareClienti.resources
+C:\Users\Cristi\Desktop\ProiectPAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Form1.resources
+C:\Users\Cristi\Desktop\ProiectPAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AdaugareAngajat.resources
+C:\Users\Cristi\Desktop\ProiectPAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Properties.Resources.resources
+C:\Users\Cristi\Desktop\ProiectPAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.RezervariExistente.resources
+C:\Users\Cristi\Desktop\ProiectPAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.GenerateResource.cache
+C:\Users\Cristi\Desktop\ProiectPAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.CoreCompileInputs.cache
+C:\Users\Cristi\Desktop\ProiectPAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.exe
+C:\Users\Cristi\Desktop\ProiectPAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.pdb
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.exe.config
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.exe
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.pdb
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csprojAssemblyReference.cache
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AdaugareClient.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AdaugareRezervare.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AfisareAngajati.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AfisareCamere.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AfisareClienti.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Form1.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AdaugareAngajat.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Properties.Resources.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.RezervariExistente.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.GenerateResource.cache
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.CoreCompileInputs.cache
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.exe
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.pdb
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Gf.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza1\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.ModificareSalarii.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.exe.config
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.exe
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.pdb
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AdaugareClient.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AdaugareRezervare.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AfisareAngajati.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AfisareCamere.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AfisareClienti.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Form1.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AdaugareAngajat.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Gf.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.ModificareSalarii.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Properties.Resources.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.RezervariExistente.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.GenerateResource.cache
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.CoreCompileInputs.cache
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.exe
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.pdb
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.LogIn.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.UserControl1.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csprojAssemblyReference.cache
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.exe.config
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.exe
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.pdb
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AdaugareClient.resources
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AdaugareRezervare.resources
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AfisareAngajati.resources
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AfisareCamere.resources
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AfisareClienti.resources
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Form1.resources
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AdaugareAngajat.resources
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Gf.resources
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.LogIn.resources
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.ModificareSalarii.resources
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Properties.Resources.resources
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.RezervariExistente.resources
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.UserControl1.resources
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.GenerateResource.cache
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.CoreCompileInputs.cache
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.exe
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.pdb
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csprojAssemblyReference.cache
+F:\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\Baban_Alexandru_Cristian_1045_proiect_faza2 (1)\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.exitForm.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.exe.config
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.exe
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.pdb
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csprojAssemblyReference.cache
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AdaugareClient.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AdaugareRezervare.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AfisareAngajati.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AfisareCamere.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AfisareClienti.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.exitForm.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Form1.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.AdaugareAngajat.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Gf.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.LogIn.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.ModificareSalarii.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Properties.Resources.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.RezervariExistente.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.UserControl1.resources
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.GenerateResource.cache
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.CoreCompileInputs.cache
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.exe
+C:\Users\Cristi\Desktop\Baban_Alexandru_Cristian_1045_proiect_faza3\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.pdb
